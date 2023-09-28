@@ -8,7 +8,7 @@ A comprehensive analysis on different classification techniques using adult cens
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-  ## Author
+## Author
  @[Abbas S.](https://github.com/clkride)
 
 ## License
