@@ -1,3 +1,9 @@
+<a name="readme-top"></a>
+
+<a href="https://linkedin.com/in/abbas-singapurwala">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+
 # Binary_Classification_On_Census_Data
 A comprehensive analysis on different classification techniques using adult census data from US. 
 
@@ -7,6 +13,15 @@ A comprehensive analysis on different classification techniques using adult cens
 - [Author](#author)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+
+## About Census Data Set
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Project Description
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Author
  @[Abbas S.](https://github.com/clkride)
@@ -36,3 +51,8 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
