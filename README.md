@@ -15,6 +15,33 @@ A comprehensive analysis on different classification techniques using adult cens
 - [Acknowledgments](#acknowledgments)
 
 ## About Census Data Set
+### Overview
+The Census Income dataset is a collection of individual records representing various attributes of individuals, including demographic, educational, and employment-related information. This dataset is often used for classification tasks, specifically for predicting whether an individual's income exceeds $50,000 (">50K") or not ("<=50K").
+
+### Dataset Information
+
+#### Data Columns
+
+1. **ID**: An identifier for each individual.
+2. **age**: The age of the individual.
+3. **workclass**: The type of workclass the individual belongs to (e.g., State-gov, Self-emp-not-inc, Private, etc.).
+4. **fnlwgt**: The final weight, which represents the number of people the census believes the entry represents.
+5. **education**: The highest level of education completed by the individual.
+6. **education_num**: A numerical representation of education, often equivalent to the years of education.
+7. **marital_status**: The marital status of the individual.
+8. **occupation**: The type of occupation the individual is engaged in.
+9. **relationship**: The individual's relationship status (e.g., Husband, Not-in-family, Own-child, etc.).
+10. **race**: The race of the individual.
+11. **sex**: The gender of the individual.
+12. **capital_gain**: The amount of capital gains the individual has.
+13. **capital_loss**: The amount of capital losses the individual has.
+14. **hr_per_wk**: The number of hours worked per week.
+15. **native_country**: The native country of the individual.
+16. **class**: The target variable, indicating whether the individual's income exceeds $50,000 (">50K") or not ("<=50K").
+
+#### Data Sample
+Here's a sample of the first few records in the dataset:
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
