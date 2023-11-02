@@ -42,6 +42,15 @@ The Census Income dataset is a collection of individual records representing var
 #### Data Sample
 Here's a sample of the first few records in the dataset:
 
+| ID | age | workclass          | fnlwgt | education    | education_num | marital_status       | occupation         | relationship   | race   | sex   | capital_gain | capital_loss | hr_per_wk | native_country | class |
+|----|-----|--------------------|--------|--------------|---------------|----------------------|--------------------|----------------|--------|-------|--------------|--------------|-----------|----------------|-------|
+| 1  | 39  | State-gov          | 77516  | Bachelors    | 13            | Never-married        | Adm-clerical        | Not-in-family  | White  | Male  | 2174         | 0            | 40        | United-States  | <=50K |
+| 2  | 50  | Self-emp-not-inc   | 83311  | Bachelors    | 13            | Married-civ-spouse  | Exec-managerial    | Husband        | White  | Male  | 0            | 0            | 13        | United-States  | <=50K |
+| 3  | 38  | Private            | 215646 | HS-grad      | 9             | Divorced             | Handlers-cleaners  | Not-in-family  | White  | Male  | 0            | 0            | 40        | United-States  | <=50K |
+| 4  | 53  | Private            | 234721 | 11th         | 7             | Married-civ-spouse  | Handlers-cleaners  | Husband        | Black  | Male  | 0            | 0            | 40        | United-States  | <=50K |
+| 5  | 28  | Private            | 338409 | Bachelors    | 13            | Married-civ-spouse  | Prof-specialty     | Wife           | Black  | Female | 0            | 0            | 40        | Cuba           | <=50K |
+| 6  | 37  | Private            | 284582 | Masters      | 14            | Married-civ-spouse  | Exec-managerial    | Wife           | White  | Female | 0            | 0            | 40        | United-States  | <=50K |
+
 
 ### Purpose
 This dataset is often used for tasks related to income prediction, demographic analysis, and employment trends. It can be used to build predictive models to classify individuals into income categories and gain insights into the factors affecting an individual's income.
