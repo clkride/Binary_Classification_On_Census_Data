@@ -98,6 +98,9 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
-
+Inspiration, code snippets, etc.
+* [Choose an Open Source License](https://choosealicense.com)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
