@@ -1,5 +1,10 @@
 <a name="readme-top"></a>
-
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/clkride/Binary_Classification_On_Census_Data?style=flat-square)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/clkride/Binary_Classification_On_Census_Data?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/clkride/Binary_Classification_On_Census_Data?style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/clkride/Binary_Classification_On_Census_Data?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/clkride/Binary_Classification_On_Census_Data?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/clkride/Binary_Classification_On_Census_Data?style=flat-square)
 <a href="https://linkedin.com/in/abbas-singapurwala">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
