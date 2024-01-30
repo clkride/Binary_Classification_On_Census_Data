@@ -13,13 +13,20 @@
 A comprehensive analysis on different classification techniques using adult census data from US. 
 
 ## Table of Contents
-- [About Census Data Set](#about-census-data-set)
 - [Project Description](#project-description)
+- [About Data Set](#about-data-set)
+- [Data Exploration](#data-exploration)
+- [Modeling Approach](#modeling-approach)
+- [Model Performance](#model-performance)
+- [Feature Importance](#feature-importance)
+- [Summary](#summary)
 - [Author](#author)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-## About Census Data Set
+## Project Description
+
+## About Data Set
 ### Overview
 The Census Income dataset is a collection of individual records representing various attributes of individuals, including demographic, educational, and employment-related information. This dataset is often used for classification tasks, specifically for predicting whether an individual's income exceeds $50,000 (">50K") or not ("<=50K").
 
@@ -68,7 +75,23 @@ Please note that this is a simplified dataset description for use on GitHub or o
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Project Description
+## Data Exploration
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Modeling Approach
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Model Performance
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Feature Importance
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Summary
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
