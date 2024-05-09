@@ -93,9 +93,6 @@ Insight| &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Visualization &n
   Plot2: Level of Education v/s Income Bracket <br/> <br/> Income declines when the number of years of <br/> education is less than 12.| ![alt text](https://github.com/clkride/Binary_Classification_On_Census_Data/blob/main/plots/Boxplot%20-%20Class%20vs%20Education%20Years.png?raw=true)
  Plot3: Correlation Plot <br/> <br/> Multicolinearity does not exist here. | ![alt text](https://github.com/clkride/Binary_Classification_On_Census_Data/blob/main/plots/Correlation%20Plot.png?raw=true)
  Plot4: Gender v/s Income Bracket <br/> <br/> Surprisingly, the proportion of female individuals with income >50K is less than half of that of male individuals. | ![alt text](https://github.com/clkride/Binary_Classification_On_Census_Data/blob/main/plots/Scaled%20Stacked%20Barplot%20-%20Class%20vs%20Gender.png?raw=true)
- Plot5: Previous Outcome v/s Current Subscription <br/> <br/> If the outcome of previous campaign was a success <br/> then the propensity of that client to subscribe <br/> the term deposit is fairly high. | ![alt text](https://github.com/clkride/Feature_Importance_ANN/blob/main/images/prev_outcome.png?raw=true)
- Plot6: Education Level v/s Subscription <br/> <br/> Illiterate people are more likely to subscribe than <br/>educated folk. Also, as the level of education <br/>increases the propensity to subscribe increases as well.| ![alt text](https://github.com/clkride/Feature_Importance_ANN/blob/main/images/edu_vs_subscription.png?raw=true)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
