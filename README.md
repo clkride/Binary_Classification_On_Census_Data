@@ -89,7 +89,7 @@ In this phase of the project, I have tried to resolve common data challenges fac
 
 Insight| &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Visualization &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
 :-------------------------|:-------------------------:
- Plot1: Duration of call v/s Subscription <br/> <br/> Higher is the duration of the last call,<br/> higher is the probability that the client will subscribe | ![alt text](https://github.com/clkride/Feature_Importance_ANN/blob/main/images/duration.png?raw=true)
+ Plot1: Age v/s Income Bracket <br/> <br/> Higher is the income category,<br/> higher is the age of the respondent. | ![alt text](https://github.com/clkride/Binary_Classification_On_Census_Data/blob/main/plots/Boxplot%20-%20Class%20vs%20Age.png?raw=true)
   Plot2: Histogram of Duration with Subscription Overlay <br/> <br/> Subscription declines when the duration of call<br/> is close to 50 min. However, the outcome is most <br/>certainly 'yes' if the duration is close to 65 min. <br/>and 'no' when the duration exceeds 65 minutes. | ![alt text](https://github.com/clkride/Feature_Importance_ANN/blob/main/images/duration_limits.png?raw=true)
  Plot3: Months v/s Subscription <br/> <br/> Campaigns are most successful in months of - <br/> Dec, Mar, Oct, and Sep. | ![alt text](https://github.com/clkride/Feature_Importance_ANN/blob/main/images/months_vs_campaign_outcome.png?raw=true)
  Plot4: Job Type v/s Subscription <br/> <br/> Surprisingly, students and retired people are<br/> more likely to subscribe for a term deposit. | ![alt text](https://github.com/clkride/Feature_Importance_ANN/blob/main/images/job_type_vs_subscription.png?raw=true)
