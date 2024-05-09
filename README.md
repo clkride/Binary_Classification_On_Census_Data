@@ -54,6 +54,7 @@ The Census Income dataset is a collection of individual records representing var
 15. **native_country**: The native country of the individual.
 16. **class**: The target variable, indicating whether the individual's income exceeds $50,000 (">50K") or not ("<=50K").
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 #### Data Sample
 Here's a sample of the first few records in the dataset:
 
@@ -67,6 +68,7 @@ Here's a sample of the first few records in the dataset:
 | 6  | 37  | Private            | 284582 | Masters      | 14            | Married-civ-spouse  | Exec-managerial    | Wife           | White  | Female | 0            | 0            | 40        | United-States  | <=50K |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Purpose
 This dataset is often used for tasks related to income prediction, demographic analysis, and employment trends. It can be used to build predictive models to classify individuals into income categories and gain insights into the factors affecting an individual's income.
 
