@@ -26,6 +26,10 @@ A comprehensive analysis on different classification techniques using adult cens
 
 ## Project Description
 
+This project employs several machine learning models, including logistic regression, Linear Discriminant Analysis (LDA), decision trees, k-nearest neighbors (KNN), and Naive Bayes. Each model will be implemented and evaluated comprehensively to compare their performance in terms of accuracy, precision, recall, F1-score, and computational efficiency.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## About Data Set
 ### Overview
 The Census Income dataset is a collection of individual records representing various attributes of individuals, including demographic, educational, and employment-related information. This dataset is often used for classification tasks, specifically for predicting whether an individual's income exceeds $50,000 (">50K") or not ("<=50K").
