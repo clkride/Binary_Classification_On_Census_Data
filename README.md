@@ -18,7 +18,6 @@ A comprehensive analysis on different classification techniques using adult cens
 - [Data Exploration](#data-exploration)
 - [Modeling Approach](#modeling-approach)
 - [Model Performance](#model-performance)
-- [Feature Importance](#feature-importance)
 - [Summary](#summary)
 - [Author](#author)
 - [License](#license)
@@ -101,10 +100,6 @@ Insight| &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Visualization &n
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Model Performance
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Feature Importance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
