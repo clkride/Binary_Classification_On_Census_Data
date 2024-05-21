@@ -111,6 +111,12 @@ Steps -
 
 ## Model Performance
 
+Overall, logistic regression model has outperformed all the other models.
+
+Model Comparison           | &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Performance Metrics &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+:-------------------------:|:-------------------------
+![alt text](https://github.com/clkride/Binary_Classification_On_Census_Data/blob/main/plots/Model%20Comparison.png?raw=true)| - **Logistic Regression:** High accuracy with low variance; high kappa indicating good agreement beyond chance.<br>- **Linear Discriminant Analysis (LDA):** High accuracy similar to Logistic Regression; comparable kappa, suggesting similar performance in terms of agreement.<br>- **Decision Tree:** Lower accuracy and kappa compared to Logistic Regression and LDA, indicating less reliability.<br>- **K-Nearest Neighbors (KNN):** High accuracy with some variance; kappa is also high, close to Logistic Regression and LDA, indicating good reliability.<br>- **Naive Bayes:** Highest accuracy among the models with very low variance; kappa is lower than its accuracy, indicating it's somewhat reliable but not as much as Logistic Regression, LDA, or KNN.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Summary
