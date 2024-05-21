@@ -97,6 +97,16 @@ Insight| &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Visualization &n
 
 ## Modeling Approach
 
+Steps - 
+1. Data Import and Initial Exploration
+2. Data Exploration: Numerical and Graphical Summaries, Correlation Plot, Summary Statistics for Numeric Variables
+3. Visual Exploration with ggplot2
+4. Data Preparation and Train-Test Split (70-30)
+5. Model Training and Evaluation
+6. Model Evaluation: Predictions on Test Set, Confusion Matrix, Classification Metrics
+7. Report Performance Metrics
+8. Identify best performing model
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Model Performance
