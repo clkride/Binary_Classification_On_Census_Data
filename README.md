@@ -120,7 +120,10 @@ Model Comparison           | &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Performanc
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Conclusion
-
+- **Logistic and LDA**: Both perform well with high accuracy and Kappa, making them reliable choices.
+- **KNN and Decision Tree**: Also performs well, with accuracy and Kappa close to Logistic and LDA.
+- **Naive Bayes**: While very accurate, its reliability in terms of agreement (Kappa) is less than the best performers.
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
